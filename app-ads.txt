@@ -1,4 +1,8 @@
-#Updated Jan11th, 2023
+#Updated Apr14th, 2023
+
+#Freeplay
+facebook.com, 9931006620258672, RESELLER, c3e20eee3f780d68
+
 #AdMob
 google.com, pub-9306779210875415, DIRECT, f08c47fec0942fa0
 applovin.com, e1259fc65247b6a1a8ece30a314fb2a6, DIRECT
