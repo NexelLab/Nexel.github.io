@@ -1,1 +1,1 @@
-we make games - you play them!
+Gamers make games to gamers
