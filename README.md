@@ -1,1 +1,1 @@
-Gamers make games to gamers
+Gamers create games for gamers
